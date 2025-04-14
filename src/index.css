@@ -9,7 +9,7 @@
   --sBackground-shade: rgb(215, 215, 215);
   --sBackground-alt: linear-gradient(90deg, #FFFFFF, hsl(0, 0%, 94%));
   --headerT: hsl(240, 100%, 20%);
-  --headerT-alt: hsl(0, 0%, 0%);
+  --headerT-alt: #343434;
   --accent: #0F88CD;
   --black: black;
   --background: #343434;
