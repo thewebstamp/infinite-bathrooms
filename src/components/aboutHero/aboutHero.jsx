@@ -13,9 +13,9 @@ function AboutHero() {
             </div>
             
             <div className='ah-base'>
-                <div className='ah-headline'>🛁 ABOUT INFINITE BATHROOMS</div>
+                <div className='ah-headline'>🛁 ABOUT INFINITE GROUP</div>
                 <h2>Custom Fitted Bathrooms, Expertly Installed Across Scotland</h2>
-                <p>At Infinite Bathrooms, we specialize in fully supplied and fitted bathroom transformations starting from just £3,350. Based in Central Scotland, we proudly serve homeowners across the country—from Edinburgh and Glasgow to Inverness and beyond. <br />With years of experience and a commitment to quality, our skilled tradesmen handle every aspect of your bathroom project—from free home surveys to expert installations. We don’t just install bathrooms—we craft stylish, functional spaces built to last. Whether you’re upgrading a family bathroom, adding a shower room, or revamping your ensuite, we’re here to make the process seamless, affordable, and stress-free.</p>
+                <p>At Infinite Group, we specialize in fully supplied and fitted bathroom transformations starting from just £3,350. Based in Central Scotland, we proudly serve homeowners across the country—from Edinburgh and Glasgow to Inverness and beyond. <br />With years of experience and a commitment to quality, our skilled tradesmen handle every aspect of your bathroom project—from free home surveys to expert installations. We don’t just install bathrooms—we craft stylish, functional spaces built to last. Whether you’re upgrading a family bathroom, adding a shower room, or revamping your ensuite, we’re here to make the process seamless, affordable, and stress-free.</p>
             </div>
         </div>
     )

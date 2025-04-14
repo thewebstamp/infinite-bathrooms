@@ -10,7 +10,7 @@ function Hero() {
                 </div>
                 <div className="hero">
                     <div className="hero-top">
-                        <div className="small-headline">WELCOME TO INFINITE BATHROOMS</div>
+                        <div className="small-headline">WELCOME TO INFINITE GROUP</div>
                         <h1>✨ Luxury Bathrooms Supplied & Fitted Across Scotland – From Just £3,350</h1>
                         <p><span><span className="highlight">Free Home Surveys & Quotes Available Now!</span><br /></span>Transform your bathroom with stylish, durable fittings and expert craftsmanship</p>
                         <div className="hero-btn">

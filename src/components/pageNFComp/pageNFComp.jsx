@@ -10,7 +10,7 @@ function PageNFComp() {
             <div className="page-nf-t">
                 <p className='page-error'><span>404</span> ERROR</p>
                 <h2>Page Not Found</h2>
-                <p>Click on the button below to get redirected to Infinite Bathrooms home page</p>
+                <p>Click on the button below to get redirected to Infinite Group home page</p>
                 <a href="#" onClick={() => {navigate("/")}}>Back to Home</a>
             </div>
 
