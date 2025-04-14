@@ -5,19 +5,19 @@ import { useRef, useEffect } from 'react';
 function Testimonial() {
     const testimonial = [
         {
-            name: 'MICHELLE',
-            address: 'Cumbernauld',
-            review: "Infinite Bathrooms came highly recommended—and now we know why. The work done in our house is immaculate. Great materials, great communication, and even better service from start to finish!"
+            name: 'JULIE M',
+            address: 'Kilmarnock',
+            review: "We had an old, horrible wetroom completely ripped out and replaced by Infinite Group. The difference is night and day! The bathroom was completed in a short time and it’s absolutely stunning. We’re genuinely delighted!"
         },
         {
-            name: 'JAMES',
-            address: 'Airdrie',
-            review: 'We had a small shower room that needed a major update. Infinite Bathrooms delivered exactly what we asked for—and then some! Friendly team, tidy work, and excellent communication throughout the project'
+            name: 'BRIAN T',
+            address: 'Carluke',
+            review: 'Infinite Group recently renovated our kitchen in Carluke. From start to finish, the team was polite, professional, and so tidy! The final result was even better than we imagined. Highly recommend them to anyone'
         },
         {
-            name: 'PAUL',
-            address: 'Kirkcaldy',
-            review: 'From planning to fitting, the Infinite team was incredible. They were on time, on budget, and respectful of our home. Our new en-suite is just beautiful and so easy to maintain'
+            name: 'MacAli Group',
+            address: 'Elgin',
+            review: 'Working with Infinite Group on our Elgin property was a fantastic experience. Their attention to detail, communication, and commitment to high standards truly set them apart. 100% reliable'
         }
     ];
 
@@ -52,7 +52,7 @@ function Testimonial() {
 
             <div className="t-base" ref={testimonialB}>
                 <div className="t-headline">TESTIMONIALS</div>
-                <h2>💬 What Our Customers Are Saying</h2>
+                <h2>💬 What Our Customers Say</h2>
                 <div className="testimonial-wrap">
                     {testimonial.map((review, i) => (
                         <div className="t-reviews" key={i}>

@@ -62,7 +62,7 @@ function SetApart() {
         <div className="set-apart-wrap">
             <div className="sa-top" ref={setApartT}>
                 <div className="sa-headline">💎 WHY CHOOSE INFINITE GROUP</div>
-                <h2>We are Scotland’s Top Bathroom Installation & Renovation Choice</h2>
+                <h2>Trusted Construction Experts in Central Scotland & Across the UK</h2>
                 <div className="sa-cards">
                     {sCards.map((card, i) => (
                         <div key={i} className="card">

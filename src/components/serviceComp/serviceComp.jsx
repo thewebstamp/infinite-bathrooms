@@ -10,34 +10,34 @@ function ServiceComp() {
     const navigate = useNavigate();
     const [ourServices, setOurServices] = useState([
         {
-            title: '🛁 Bathroom Renovation',
-            description: 'Full redesign, supply, and professional installation',
+            title: '🏠 Home Renovations',
+            description: 'Full property transformations, inside and out',
             image: Images.renovation,
-            url: 'bathroom renovation'
+            url: 'full home renovation'
         },
         {
-            title: '🚿 Shower Rooms',
-            description: 'Space-saving, modern shower room solutions',
+            title: '🛁 Bathroom Fitting',
+            description: 'Modern bathrooms, designed and installed',
             image: Images.shower,
-            url: 'shower room'
+            url: 'bathroom fitting'
         },
         {
-            title: '📦 Supply Fit',
-            description: 'All-inclusive bathroom packages from £3,350',
+            title: '🍽️ Kitchen Upgrades',
+            description: 'Stylish and functional kitchen refurbishments',
             image: Images.fit,
-            url: 'supply fit'
+            url: 'kitchen upgrade'
         },
         {
-            title: '🧼 Fixture Upgrades',
-            description: 'Swap taps, vanities, or lighting easily',
+            title: '🧱 General Contracting',
+            description: 'Reliable management for all construction projects',
             image: Images.fixture,
-            url: 'fixture upgrades'
+            url: 'general contracting'
         },
         {
-            title: '🏠 Home Surveys',
-            description: 'Free in-home consultations and estimates',
+            title: '🏢 Commercial Builds',
+            description: 'Renovations for retail and business spaces',
             image: Images.survey,
-            url: 'home survey'
+            url: 'commercial builds'
         }
     ]);
 
@@ -105,11 +105,11 @@ function ServiceComp() {
         <div className="service-comp" id='services'>
             <div className="s-up" ref={serviceT}>
                 <div className="s-heading">
-                    <div className="s-headline">🚿 OUR SERVICES</div>
-                    <h2>From Supply to Final Installation — We Handle it All</h2>
+                    <div className="s-headline">OUR SERVICES</div>
+                    <h2>🔨 Construction & Renovation Services Across UK</h2>
                 </div>
                 <div className="s-text">
-                    <p>Whether you’re dreaming of a full bathroom transformation or need a space-saving shower solution, we’ve got you covered. <span>WE&nbsp; OFFER&nbsp; THE&nbsp; FOLLOWING&nbsp; RANGE&nbsp; OF&nbsp; SERVICES:</span></p>
+                    <p>We offer a range of construction and renovation services to help you achieve the home or commercial space you've always envisioned. Explore how we can assist you with quality, craftsmanship, and attention to detail.</p>
                     <a href="#" onClick={()=>{navigate("/contact")}}>Contact Us</a>
                 </div>
             </div>

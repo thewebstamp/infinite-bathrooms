@@ -11,8 +11,8 @@ function Hero() {
                 <div className="hero">
                     <div className="hero-top">
                         <div className="small-headline">WELCOME TO INFINITE GROUP</div>
-                        <h1>✨ Luxury Bathrooms Supplied & Fitted Across Scotland – From Just £3,350</h1>
-                        <p><span><span className="highlight">Free Home Surveys & Quotes Available Now!</span><br /></span>Transform your bathroom with stylish, durable fittings and expert craftsmanship</p>
+                        <h1>🏗️ Trusted Construction & Renovation Experts Across the UK</h1>
+                        <p><span><span className="highlight">Free Home Surveys & Quotes Available Now!</span><br /></span>Based in Central Scotland, we transform homes with stylish, durable finishes and expert craftsmanship</p>
                         <div className="hero-btn">
                             <a id='hero-f-btn' className='hero-f-btn' href="#portfolio">View Portfolio</a>
                             <a id='hero-s-btn' className='hero-s-btn' href="#services">See Services</a>

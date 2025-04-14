@@ -67,8 +67,8 @@ function Portfolio() {
 
     return (
         <div className="portfolio-comp" id='portfolio' ref={portfolioA}>
-            <div className="p-headline">🖼️ OUR PORTFOLIO</div>
-            <h2>See the Bathrooms We've Transformed Across Scotland</h2>
+            <div className="p-headline">📸 OUR PORTFOLIO</div>
+            <h2>Some of Our Recent Transformations Across UK</h2>
             <div className="portfolio-images">
                 <div className="image-wrap">
                     <div className="p-imgs">

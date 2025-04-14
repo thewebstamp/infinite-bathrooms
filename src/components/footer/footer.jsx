@@ -13,7 +13,7 @@ function Footer({home, about, contact }) {
                 <a className='ft-img' href="#" onClick={()=>{navigate("/")}}><img src={Images.logo} alt="" /></a>
                 <p>Fully Insured</p>
                 <a href="mailto:admin@infinitegroupscot.co.uk?Subject=Project Enquiry" target='_blank'><span>Email:</span>&nbsp; admin @infinitegroupscot .co.uk</a>
-                <a href="https://www.bing.com/maps?q=scotland+map&FORM=HDRSC6&cp=57.881528%7E-4.687225&lvl=6.3" target='_blank'>Based in Central Scotland (we cover all of Scotland)</a>
+                <a href="https://www.bing.com/maps?q=scotland+map&FORM=HDRSC6&cp=57.881528%7E-4.687225&lvl=6.3" target='_blank'>Based in Central Scotland (we cover all of UK)</a>
             </div>
 
             <div className="f-top-2">
@@ -31,11 +31,11 @@ function Footer({home, about, contact }) {
                 <div className="social-media">Social Media</div>
                 <div className="sm-app">
                     <a href="#"><FontAwesomeIcon className='med-app' icon={faInstagram} /></a>
-                    <a href="https://web.facebook.com/precisionbathrooms11" target='_blank'><FontAwesomeIcon className='med-app' icon={faFacebookF} /></a>
+                    <a href="https://web.facebook.com/InfiniteGroupScot" target='_blank'><FontAwesomeIcon className='med-app' icon={faFacebookF} /></a>
                 </div>
             </div>
 
-            <p className="copyright">&copy;{new Date().getFullYear()} All Rights Reserved By Infinite Bathrooms</p>
+            <p className="copyright">&copy;{new Date().getFullYear()} All Rights Reserved By Infinite Group</p>
         </div>
     )
 }

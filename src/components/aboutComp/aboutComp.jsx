@@ -46,9 +46,9 @@ function AboutComp() {
             </div>
 
             <div className="about-comp-text" ref={aboutB}>
-                <div className="a-headline">🛁 ABOUT US</div>
-                <h2>Scotland’s Trusted Construction & Renovation Experts</h2>
-                <p>At <b>Infinite Group</b>, we specialize in fully supplied and fitted bathroom transformations starting from just £3,350. Based in Central Scotland with years of experience and a commitment to quality, we proudly serve homeowners across the country—from Edinburgh and Glasgow to Inverness and beyond. We don’t just install bathrooms—we craft stylish, functional spaces built to last</p>
+                <div className="a-headline">ABOUT INFINITE GROUP 🏗️</div>
+                <h2>Building Dreams, One Project at a Time</h2>
+                <p>At <b>Infinite Group</b>, we provide comprehensive building and renovation services across the UK. With years of experience in the industry, we are passionate about bringing residential and commercial projects to life, including property renovations, bespoke bathroom designs, kitchen refurbishments, and much more.</p>
                 <div className="about-bullet">
                     <div className="item">
                         <FontAwesomeIcon className='a-check' icon={faCheck} />

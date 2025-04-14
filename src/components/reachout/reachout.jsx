@@ -39,8 +39,8 @@ function Reachout() {
         <div className="reachout-comp">
             <div className="r-top" ref={reachoutT}>
                 <div className="r-headline">📞 REACH OUT TO US</div>
-                <h2>Let’s Bring Your Dream Bathroom to Life</h2>
-                <p>Whether you’re ready to book your free home survey or just have a few questions — we’re here to help. Our friendly team is always happy to chat and guide you through the process. Get in touch today for a free home survey and quote!</p>
+                <h2>Have a Project in Mind? Let’s Make it Happen</h2>
+                <p>Whether you’re ready to book your free home survey or just have a few questions — we’re here to help. Our friendly team is always happy to chat and guide you through the process. Get in touch today for a free home survey and no-obligation quote!</p>
                 <a href="#" onClick={() => { navigate("/contact") }}>See Contact Info</a>
             </div>
 
