@@ -58,7 +58,7 @@ function Questions() {
         <div className="faquestions" ref={questionA}>
             <div className="faq-headline">FAQ</div>
             <h2>Frequently Asked Questions</h2>
-            <p className='fa-para'>Discover the answers to Richer Concrete LLC most frequently asked questions.</p>
+            <p className='fa-para'>Discover the answers to Infinite Group most frequently asked questions.</p>
             <div className="faquestions-wrap">
                 {faQuestions.map((quest, i) => {
                     return (
