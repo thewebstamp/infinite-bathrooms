@@ -202,12 +202,12 @@
 
 @media(max-width: 685px) {
     .about-comp {
-        padding: 55px 7vw;
+        padding: 55px 0vw;
         gap: 60px;
     }
     
     .about-comp .about-comp-imgs {
-        width: 100%;
+        width: 92%;
     }
 
     .about-comp-imgs .a-img-1, .about-comp-imgs .a-img-2 {
@@ -225,6 +225,10 @@
     .about-comp-imgs .a-img-2 {
         top: 10vw;
         width: 47%;
+    }
+    
+    .about-comp-text {
+        padding: 0 7vw;
     }
     
     .about-comp-text .a-headline {

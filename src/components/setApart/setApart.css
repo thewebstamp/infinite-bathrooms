@@ -180,8 +180,12 @@
 
 @media (max-width: 685px) {
     .set-apart-wrap {
-        padding: 55px 7vw;
+        padding: 55px 0vw;
         gap: 50px;
+    }
+    
+    .sa-top {
+        padding: 0 7vw;
     }
     
     .sa-top .sa-headline {
@@ -205,7 +209,7 @@
     }
     
     .set-apart-wrap .sa-base {
-        width: 100%;
+        width: 95%;
     }
     
     .sa-base .sa-img-design {

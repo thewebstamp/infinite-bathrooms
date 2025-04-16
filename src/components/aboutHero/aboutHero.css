@@ -105,16 +105,20 @@
 
 @media(max-width: 685px) {
     .about-hero {
-        padding: 120px 7vw 55px;
+        padding: 120px 0vw 55px;
         gap: 45px;
     }
     
     .about-hero .ah-top {
-        width: 100%;
+        width: 92%;
     }
     
     .ah-top img {
         border: 3px solid rgb(233, 233, 233);
+    }
+    
+    .ah-base {
+        padding: 0 7vw;
     }
     
     .ah-base .ah-headline {

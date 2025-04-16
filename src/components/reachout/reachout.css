@@ -161,8 +161,12 @@
 
 @media (max-width: 685px) {
     .reachout-comp {
-        padding: 50px 7vw 100px;
+        padding: 50px 0vw 100px;
         gap: 60px;
+    }
+    
+    .r-top {
+        padding: 0 7vw;
     }
     
     .r-top .r-headline {
@@ -184,7 +188,7 @@
     }
     
     .reachout-comp .r-base {
-        width: min(430px, 100%);
+        width: min(430px, 97%);
     }
     
     .r-base .r-image-design {

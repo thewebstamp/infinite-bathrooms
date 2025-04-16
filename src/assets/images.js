@@ -7,10 +7,10 @@ import heroImg4 from './himg-4-min.jpg';
 import acompImg1 from './acomp-img1-min.jpg';
 import acompImg2 from './acomp-img2-min.jpg';
 import renovation from './renovation-min.jpg';
-import shower from './shower-min.jpg';
-import fit from './fit-min.jpg';
-import fixture from './fixture-min.jpg';
-import survey from './survey-min.jpg';
+import bathroom from './bathroom-min.jpg';
+import kitchen from './kitchen-min.jpg';
+import general from './general-min.jpg';
+import commercial from './commercial-min.jpg';
 import testimonial from './testimonial-min.jpg';
 import p1 from './lp1-min.jpg';
 import p2 from './lp2-min.jpg';
@@ -51,10 +51,10 @@ export const Images = {
     acompImg1,
     acompImg2,
     renovation,
-    shower,
-    fit,
-    fixture,
-    survey,
+    bathroom,
+    kitchen,
+    general,
+    commercial,
     testimonial,
     p1, p2, p3, p4, p5, p6, p7, p8, p9, p10,
     p11, p12, p13, p14, p15, p16, p17, p18, p19, p20,

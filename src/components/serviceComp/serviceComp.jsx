@@ -18,26 +18,27 @@ function ServiceComp() {
         {
             title: '🛁 Bathroom Fitting',
             description: 'Modern bathrooms, designed and installed',
-            image: Images.shower,
+            image: Images.bathroom,
             url: 'bathroom fitting'
         },
         {
             title: '🍽️ Kitchen Upgrades',
             description: 'Stylish and functional kitchen refurbishments',
-            image: Images.fit,
+            image: Images.kitchen,
             url: 'kitchen upgrade'
+        },
+        
+        {
+            title: '🏢 Commercial Spaces',
+            description: 'Renovations for retail and business spaces',
+            image: Images.commercial,
+            url: 'commercial space renovation'
         },
         {
             title: '🧱 General Contracting',
             description: 'Reliable management for all construction projects',
-            image: Images.fixture,
+            image: Images.general,
             url: 'general contracting'
-        },
-        {
-            title: '🏢 Commercial Builds',
-            description: 'Renovations for retail and business spaces',
-            image: Images.survey,
-            url: 'commercial builds'
         }
     ]);
 
